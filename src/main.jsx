@@ -7,7 +7,7 @@ import App from './App.jsx';
 import SideEffect from './SideEffect.jsx';
 import Preventation from './Prevention.jsx';
 import MedicineStudy from './MedicineStudy.jsx';
-import Home from './home.jsx';
+import Home from './Home.jsx';
 
 createRoot(document.getElementById('root')).render(
   <React.StrictMode>
