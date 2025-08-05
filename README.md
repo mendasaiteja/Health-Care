@@ -46,4 +46,4 @@
 * **Daily health check and reminders**.
 * **AI voice assistant** for convenience.
 * **Real-time side effect suggestions**.
-* 
+
