@@ -1,12 +1,49 @@
-# React + Vite
+**HealthCare Prescription Simplifier**
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+### 🧠 **Purpose of the Project**
 
-Currently, two official plugins are available:
+* Converts **complex medical prescriptions** into **simple, understandable language**.
+* Helps patients understand **what medicines to take, when, why**, and **possible side effects**.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+### 🚨 **Why It’s Important**
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+* Most people struggle to understand doctor prescriptions.
+* Reduces chances of **medicine misuse** and **health risks**.
+* Ensures **better health awareness** and **medication adherence**.
+
+---
+
+### 💡 **Unique Features**
+
+1. **Prescription Summary**: Converts medical jargon into everyday language.
+2. **Precaution Alerts**: Tells you what to **avoid** (foods, drugs, etc.).
+3. **Side Effects Info**: Explains risks in simple terms.
+4. **Disease Understanding**: Helps patients learn about their condition.
+5. **Report Analysis**: Generates clear, summarized health reports.
+
+---
+
+### 🛠️ **Technology Used**
+
+* **Frontend**: React.js + Bootstrap
+* **Backend**: Node.js + Express.js
+* **AI**: Gemini 2.0-flash (for language simplification)
+---
+
+### 🚀 **What Makes It Different**
+
+* Other apps focus on **reminders only**.
+* This app **explains** prescriptions in **human language**.
+* Adapts to **user’s age, literacy, and language**.
+
+---
+
+### 🔮 **Future Plans**
+
+* **Order medicines** directly from the app.
+* **Daily health check and reminders**.
+* **AI voice assistant** for convenience.
+* **Real-time side effect suggestions**.
+* 
